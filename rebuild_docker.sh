@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-docker build -t archlinux-pandoc-citeproc-latex .
+docker build -t archlinux-ci-deploy .
