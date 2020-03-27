@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
-dockerTag=archlinux-pandoc-citeproc-latex
-dockerName=archlinux-pandoc
+dockerTag=archlinux-ci-deploy
+dockerName=archlinux-ci-deploy
 
 sudo docker stop $dockerName
 sudo docker rm $dockerName
