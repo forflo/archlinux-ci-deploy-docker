@@ -2,11 +2,8 @@
 
 Docker containing
 
-- pandoc
-- pandoc-citeproc
-- texlive-most
-- openssh
-- git
+- mutt (for email sending)
+- openssh (scp, sftp)
+- git ...
 
-you probably won't get a more up-to-date 
-latex stuff docker container than this one :smile:
+for ci jobs. List might grow in the future.
